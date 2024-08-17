@@ -28,7 +28,7 @@ Welcome to the React Quiz App! This is a small project built with React that fea
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Balmoorthy/react-quiz.git
 
 2. **Navigate to the Project Directory:**
 
@@ -46,7 +46,7 @@ Welcome to the React Quiz App! This is a small project built with React that fea
    ```bash
    npm run server
 
-The fake server will start at http://localhost:9000.
+   The fake server will start at http://localhost:9000/questions.
 
 5. **Start the React App::**
 
