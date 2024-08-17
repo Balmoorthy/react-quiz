@@ -14,6 +14,7 @@ Welcome to the React Quiz App! This is a small project built with React that fea
 - **React:** For building the user interface and managing state.
 - **React Hooks:** For handling reducer and side effects.
 - **Fake Server:** Simulated API for serving quiz questions.
+- **CSS/Styled Components:** For styling and enhancing user experience.
 
 
 ## Getting Started
