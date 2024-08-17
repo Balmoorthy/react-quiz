@@ -46,7 +46,7 @@ Welcome to the React Quiz App! This is a small project built with React that fea
    ```bash
    npm run server
 
-   The fake server will start at http://localhost:9000/questions.
+The fake server will start at http://localhost:9000/questions.
 
 5. **Start the React App::**
 
