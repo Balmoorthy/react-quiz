@@ -52,3 +52,4 @@ The fake server will start at http://localhost:9000/questions.
 
    ```bash
    npm start
+The React app will be available at http://localhost:3000.
