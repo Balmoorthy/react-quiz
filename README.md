@@ -51,4 +51,4 @@ The fake server will start at http://localhost:9000/questions.
 5. **Start the React App::**
 
    ```bash
-   npm install
+   npm start
