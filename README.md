@@ -41,7 +41,7 @@ Welcome to the React Quiz App! This is a small project built with React that fea
    ```bash
    npm install
    
-4. **npm install:**
+4. **Run fake server:**
   Open a new terminal window run:
 
    ```bash
